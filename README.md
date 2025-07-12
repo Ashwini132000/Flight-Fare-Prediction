@@ -1,4 +1,4 @@
-# 🛫 Flight Fare Prediction  
+# ✈️ Flight Fare Prediction Web App using CatBoost & Streamlit  
 ## 🧾 Problem Statement  
 Airfare pricing is highly dynamic and influenced by various factors such as travel routes, airline carriers, number of stops, and added services like meals. Accurately predicting flight fares is a major challenge in the travel industry due to these complex dependencies. This project focuses on analyzing a real-world flight booking dataset sourced from the EaseMyTrip platform. By exploring key features such as **source**, **destination**, **route**, **airline**, and **meal inclusion**, we aim to gain meaningful insights and develop predictive models that estimate flight prices more effectively.  
 
